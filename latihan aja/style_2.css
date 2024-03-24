@@ -1,0 +1,159 @@
+
+
+.card-img{
+    object-fit: cover;
+    aspect-ratio: 1/1;
+    width: 7.5rem;
+    border-radius: 50%;
+    align-self: center;
+    cursor: pointer;
+}
+
+.card-img:hover {
+    box-shadow: 0px 5px 15px black;
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+
+.hero {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.hero a img {
+    object-fit: cover;
+    aspect-ratio: 1/1;
+    width: 1.5rem;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+.hero a img:hover {
+    transition: 0.4s;
+    transform: scale(1.1);
+    box-shadow: 0px 5px 10px black;
+}
+
+.cc {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.aa {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.aa a {
+    text-decoration: none;
+    margin-right: 10px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding: 5px;
+    color: black;
+}
+
+.aa a:hover {
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+
+.aku button {
+    background-color: aquamarine;
+    border-radius: 3px;
+}
+
+.mm:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+    box-shadow: 0px 5px 10px #2d2d2d;
+}
+
+.mn:hover:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+    box-shadow: 0px 5px 10px #2d2d2d;
+}
+
+.bb a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.bb {
+    background-color: aquamarine;
+    border-radius: 2px;
+    padding: 3px;
+    width: 60px;
+}
+
+.bb:hover {
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    transition: 0.4s;
+    transform: scale(1.1);
+}
+
+.bt {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.ab:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+    box-shadow: 0px 5px 10px #2d2d2d;
+}
+.ac:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+    box-shadow: 0px 5px 10px #2d2d2d;
+}
+
+.bt button {
+    background-color: aquamarine;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+
+.bc {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.bc a {
+    text-decoration: none;
+    color: black;
+    margin-right: 7px;
+    background-color: aquamarine;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.bc a:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+    background-color: aqua;
+    color: #000000;
+}
+
+.bc button {
+    background-color: aquamarine;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+
+.ad:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+    box-shadow: 0px 5px 10px #2d2d2d;
+}
+
+.cd:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+    box-shadow: 0px 5px 10px #2d2d2d;
+}
